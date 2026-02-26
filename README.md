@@ -36,7 +36,7 @@ When you explore VeriLog, you are seeing how I build complete, production-ready 
 
 📦 **Zero-Config Deployment** — The FastAPI backend, React dashboard, and database all spin up securely with a single `docker compose up`.
 
-It’s not just a side project — it’s an exercise in building scalable, real-world infrastructure.
+It's not just a side project — it's an exercise in building scalable, real-world infrastructure.
 
 👉 If you only check one repo on my profile, make it **[VeriLog](https://github.com/sthakur369/VeriLog)**.
 
@@ -91,7 +91,7 @@ I enjoy building things end-to-end — from idea → backend → interface → d
 
 ---
 
-# 🤝 Let’s Connect
+# 🤝 Let's Connect
 
 * **LinkedIn:** [shubham-thakur369](https://www.linkedin.com/in/shubham-thakur369/)
 * **Email:** [sthakur369@gmail.com](mailto:sthakur369@gmail.com)
