@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=220\&section=header\&text=Shubham%20Thakur\&fontSize=40\&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Shubham+👋;I+build+cool+things+with+Data+%26+AI;Creator+of+VeriLog+🚀;Always+learning,+always+building&center=true&width=650&height=60" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Shubham+👋;I+build+cool+things+with+Data+%26+AI;Creator+of+TamperTrail+🚀;Always+learning,+always+building&center=true&width=650&height=60" />
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@ Right now, I'm focused on building something meaningful — not just projects, b
 
 # 🚀 Currently Building
 
-## 🔐 VeriLog — Self-Hosted, Tamper-Proof Event Logging
+## 🔐 TamperTrail — Self-Hosted, Tamper-Proof Event Logging
 
-🔗 Repository: [https://github.com/sthakur369/VeriLog](https://github.com/sthakur369/VeriLog)
+🔗 Repository: [https://github.com/sthakur369/TamperTrail](https://github.com/sthakur369/TamperTrail)
 
 What happens when the person who alters your database also deletes the error log?
 
-Most loggers just blindly accept and store text. VeriLog is a high-performance centralized logger for your apps that actually protects your event data. Whether you are debugging a noisy microservice or preparing for a SOC 2 audit, VeriLog ensures your logs are secure, searchable, and mathematically verifiable.
+Most loggers just blindly accept and store text. TamperTrail is a high-performance centralized logger for your apps that actually protects your event data. Whether you are debugging a noisy microservice or preparing for a SOC 2 audit, TamperTrail ensures your logs are secure, searchable, and mathematically verifiable.
 
-When you explore VeriLog, you are seeing how I build complete, production-ready systems:
+When you explore TamperTrail, you are seeing how I build complete, production-ready systems:
 
 ⚡ **Built for Speed** — Uses Write-Ahead Logging (WAL) and automatic PostgreSQL monthly partitioning to handle millions of rows without slowing down your app.
 
@@ -38,7 +38,7 @@ When you explore VeriLog, you are seeing how I build complete, production-ready 
 
 It's not just a side project — it's an exercise in building scalable, real-world infrastructure.
 
-👉 If you only check one repo on my profile, make it **[VeriLog](https://github.com/sthakur369/VeriLog)**.
+👉 If you only check one repo on my profile, make it **[TamperTrail](https://github.com/sthakur369/TamperTrail)**.
 
 ---
 
