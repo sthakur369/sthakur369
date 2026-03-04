@@ -24,6 +24,8 @@ Right now, I'm focused on building something meaningful — not just projects, b
 
 🔗 Repository: [https://github.com/sthakur369/TamperTrail](https://github.com/sthakur369/TamperTrail)
 
+🌐 Website: [https://tampertrail-app.vercel.app/](https://tampertrail-app.vercel.app/)
+
 What happens when the person who alters your database also deletes the error log?
 
 Most loggers just blindly accept and store text. TamperTrail is a high-performance centralized logger for your apps that actually protects your event data. Whether you are debugging a noisy microservice or preparing for a SOC 2 audit, TamperTrail ensures your logs are secure, searchable, and mathematically verifiable.
