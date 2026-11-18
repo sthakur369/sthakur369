@@ -1,7 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=220\&section=header\&text=Shubham%20Thakur\&fontSize=40\&fontColor=ffffff)
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Shubham%20Thakur&fontSize=40&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Shubham+👋;I+build+cool+things+with+Data+%26+AI;Creator+of+TamperTrail+🚀;Always+learning,+always+building&center=true&width=650&height=60" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Shubham+👋;I+build+AI-powered+applications;Working+with+LLMs,+APIs+%26+Backend+Systems;Always+learning,+always+building&center=true&width=700&height=60" />
 </p>
 
 <p align="center">
@@ -10,74 +12,87 @@
 
 ---
 
-# 👋 About Me
 
-Hi! I'm Shubham — I enjoy building practical, real-world systems using **Data, AI, and Full-Stack tools**.
+# Shubham Thakur
 
-Right now, I'm focused on building something meaningful — not just projects, but products.
+**AI Systems Engineer · Data Scientist · Backend Developer**
 
----
+Building production LLM applications, agentic workflows, and distributed backend systems.
 
-# 🚀 Currently Building
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-thakur369/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sthakur369@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sthakur369)
 
-## 🔐 TamperTrail — Self-Hosted, Tamper-Proof Event Logging
-
-🔗 Repository: [https://github.com/sthakur369/TamperTrail](https://github.com/sthakur369/TamperTrail)
-
-🌐 Website: [https://tampertrail-app.vercel.app/](https://tampertrail-app.vercel.app/)
-
-What happens when the person who alters your database also deletes the error log?
-
-Most loggers just blindly accept and store text. TamperTrail is a high-performance centralized logger for your apps that actually protects your event data. Whether you are debugging a noisy microservice or preparing for a SOC 2 audit, TamperTrail ensures your logs are secure, searchable, and mathematically verifiable.
-
-When you explore TamperTrail, you are seeing how I build complete, production-ready systems:
-
-⚡ **Built for Speed** — Uses Write-Ahead Logging (WAL) and automatic PostgreSQL monthly partitioning to handle millions of rows without slowing down your app.
-
-🛡️ **Cryptographic Vault** — Every log is SHA-256 hash-chained to detect tampering, and sensitive metadata is AES-128 encrypted at rest.
-
-📦 **Zero-Config Deployment** — The FastAPI backend, React dashboard, and database all spin up securely with a single `docker compose up`.
-
-It's not just a side project — it's an exercise in building scalable, real-world infrastructure.
-
-👉 If you only check one repo on my profile, make it **[TamperTrail](https://github.com/sthakur369/TamperTrail)**.
+</div>
 
 ---
 
-# 🧠 Other Projects
+### About
 
-### 📄 [Multilingual PDF RAG System](https://github.com/sthakur369/Multilingual-PDF-RAG-System)
+I design and deploy end-to-end AI systems and backend infrastructure—bridging retrieval pipelines, autonomous agents, and reliable cloud APIs.
 
-A Retrieval-Augmented Generation system for answering questions from multilingual PDFs.
-
-### 🕸️ [Graph RAG Model](https://github.com/sthakur369/Graph-RAG-Model)
-
-Exploring graph-based approaches to smarter retrieval.
-
-### 🎮 [2D Game Builder](https://github.com/sthakur369/2D-game-builder)
-
-A JavaScript-based interactive 2D game builder.
-
-### 🤖 Machine Learning Experiments
-
-* Credit Card Fraud Detection
-* Text Analysis
-* Web Scraper
-* MLops experiments
-
-I enjoy building things end-to-end — from idea → backend → interface → deployment.
+- **Current Focus:** Multi-step agent orchestration, hybrid/graph RAG architectures, and low-latency inference pipelines.
+- **Engineering Approach:** Deterministic guardrails around non-deterministic models, observable systems, and clean API contracts.
+- **Background:** 4+ years across data science, AI engineering, and backend software development (B.Tech CSE, Microsoft Azure Certified).
 
 ---
 
-# 🛠️ Tech I Use
+### Featured Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,postgres,docker,git,github,azure,gcp" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sthakur369/PortfolioIQ">PortfolioIQ</a></h4>
+      <p><b>Natural-Language Financial SQL Assistant</b></p>
+      <p>Translates complex financial queries across portfolios, holdings, trades, and tax lots into validated SQL.</p>
+      <ul>
+        <li>Multi-stage prompt pipeline (intent → planning → SQL → synthesis)</li>
+        <li>Read-only DB enforcement, RBAC, and prompt-injection defense</li>
+        <li>Built-in evaluation harness tracking accuracy, latency, and token cost</li>
+      </ul>
+      <code>Python</code> <code>OpenAI API</code> <code>SQLite</code> <code>SQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sthakur369/TamperTrail">TamperTrail</a> · <a href="https://tampertrail-app.vercel.app/">Live</a></h4>
+      <p><b>Cryptographic Audit Logging Engine</b></p>
+      <p>Self-hosted, tamper-evident audit log service designed to detect unauthorized history modification.</p>
+      <ul>
+        <li>SHA-256 cryptographic hash chaining across sequential log entries</li>
+        <li>Independent verification API to audit chain integrity</li>
+        <li>Lightweight deployment footprint for backend services</li>
+      </ul>
+      <code>Python</code> <code>SHA-256</code> <code>REST API</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sthakur369/Graph-RAG-Model">Graph RAG Model</a></h4>
+      <p><b>Knowledge-Graph Augmented Retrieval</b></p>
+      <p>Combines entity-relationship graph traversal with dense vector retrieval to improve multi-hop reasoning over unstructured text.</p>
+      <code>Python</code> <code>LLMs</code> <code>Graph Retrieval</code> <code>Embeddings</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sthakur369/Multilingual-PDF-RAG-System">Multilingual PDF RAG System</a></h4>
+      <p><b>Cross-Lingual Document Q&A Pipeline</b></p>
+      <p>Parses, chunks, and indexes multilingual PDFs for semantic search and grounded answer generation.</p>
+      <code>Python</code> <code>Sentence Transformers</code> <code>ChromaDB</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+### Additional Builds
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[ShareShield](https://github.com/sthakur369/ShareShield)** | Native Android privacy utility that intercepts shared URLs and strips tracking parameters before handoff. | `Kotlin` `Android SDK` |
+| **[Instagram Saved Library](https://github.com/sthakur369/instagram-saved-library-app)** | Local-first web viewer and search engine for exported Instagram archive JSON data. ([Site](https://sthakur369.github.io/instagram-saved-library-site/)) | `JavaScript` `HTML/CSS` |
+| **[2D Game Builder](https://github.com/sthakur369/2D-game-builder)** | Browser-based interactive 2D level editor and physics sandbox. | `JavaScript` `Canvas API` |
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sthakur369&show_icons=true&theme=tokyonight" />
@@ -93,13 +108,9 @@ I enjoy building things end-to-end — from idea → backend → interface → d
 
 ---
 
-# 🤝 Let's Connect
+### Tech Stack
 
-* **LinkedIn:** [shubham-thakur369](https://www.linkedin.com/in/shubham-thakur369/)
-* **Email:** [sthakur369@gmail.com](mailto:sthakur369@gmail.com)
-
----
-
-⭐ If you like what you see, feel free to explore my repositories and drop a star!
-
-Thanks for visiting my profile 🙌
+```text
+AI & ML       │ LLMs · RAG · AI Agents · PyTorch · Sentence Transformers · ChromaDB · NLP
+Backend       │ Python · FastAPI · Java · REST APIs · PostgreSQL · SQLite
+Cloud & Ops   │ Azure (AZ-900) · GCP · Docker · Linux · Git · GitHub Actions
